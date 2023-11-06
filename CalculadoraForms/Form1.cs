@@ -97,6 +97,7 @@ namespace CalculadoraForms
                             txbTela.Clear();
                             txbAux.Clear();
                             numero1 = 0;
+                            apertouOpera= false;
                         }
                         else
                         {
